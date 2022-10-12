@@ -1,1 +1,8 @@
-
+---
+layout: model
+title: Adjective ordering preference
+model-status: code
+model-category: Reasoning about Reasoning
+model-tags: linguistics, pragmatics
+model-language: webppl
+---
